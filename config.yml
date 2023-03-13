@@ -1,0 +1,10 @@
+# Plugin made by alandioda
+
+portals:
+   world:
+      block-material: COBBLESTONE
+      max-blocks: 5
+   world_nether:
+      block-material: OBSIDIAN
+      max-blocks: 5
+      
